@@ -1,1 +1,0 @@
-audio_play_sound(mus_flying_battery, 0, false);

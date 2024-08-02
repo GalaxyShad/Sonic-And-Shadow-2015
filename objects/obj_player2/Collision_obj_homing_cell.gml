@@ -1,2 +1,0 @@
-homing3 = false
-
