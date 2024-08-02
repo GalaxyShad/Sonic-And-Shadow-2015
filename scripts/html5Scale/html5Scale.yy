@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"html5Scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"html5Scale",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

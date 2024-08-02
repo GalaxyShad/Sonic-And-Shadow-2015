@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sound32_Synth_1000000_system_1000000_SYS_CMN_1000_010_load01_01b_wav",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.0,
+  "name":"sound32_Synth_1000000_system_1000000_SYS_CMN_1000_010_load01_01b_wav",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sound32_Synth_1000000_system_1000000_SYS_CMN_1000_010_load01_01b_wav",
+  "type":0,
+  "volume":1.0,
+}
